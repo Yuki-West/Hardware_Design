@@ -1,0 +1,5 @@
+# .gitignore for Verilog/SystemVerilog project
+sim/*.vcd
+sim/tb_*
+*.vvp
+*.out
