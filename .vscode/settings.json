@@ -1,0 +1,22 @@
+{
+    "files.associations": {
+        "*.v": "verilog",
+        "*.sv": "systemverilog",
+        "*.vh": "verilog"
+    },
+    "teroshdl.general.general.pypath": "",
+    "teroshdl.documentation.general.language": "japanese",
+    "teroshdl.linter.general.linter_verilog": "iverilog",
+    "teroshdl.linter.general.linter_vhdl": "none",
+    "teroshdl.schematic.general.backend": "yowasp",
+    "teroshdl.formatter.general.formatter_verilog": "istyle",
+    "editor.formatOnSave": false,
+    "[verilog]": {
+        "editor.tabSize": 4,
+        "editor.insertSpaces": true
+    },
+    "[systemverilog]": {
+        "editor.tabSize": 4,
+        "editor.insertSpaces": true
+    }
+}
